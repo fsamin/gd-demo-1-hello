@@ -13,7 +13,7 @@ import (
 )
 
 // version is bumped on each demo commit to make the rolling update visible.
-const version = "v2"
+const version = "v3"
 
 func main() {
 	log.Printf("gd-demo-1-hello %s starting on :8080", version)
